@@ -179,6 +179,13 @@ while ( true ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/ndarray-iter/subarrays`][@stdlib/ndarray/iter/subarrays]</span><span class="delimiter">: </span><span class="description">create an iterator which iterates over each subarray in a stack of subarrays.</span>
+-   <span class="package-name">[`@stdlib/ndarray-slice`][@stdlib/ndarray/slice]</span><span class="delimiter">: </span><span class="description">return a read-only view of an input ndarray.</span>
+
 </section>
 
 <!-- /.related -->
@@ -262,6 +269,10 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/ndarray/base/broadcast-shapes]: https://github.com/stdlib-js/ndarray-base-broadcast-shapes
 
 <!-- <related-links> -->
+
+[@stdlib/ndarray/iter/subarrays]: https://github.com/stdlib-js/ndarray-iter-subarrays
+
+[@stdlib/ndarray/slice]: https://github.com/stdlib-js/ndarray-slice
 
 <!-- </related-links> -->
 
