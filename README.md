@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import nditerInterleaveSubarrays from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-iter-interleave-subarrays@esm/index.mjs';
+import nditerInterleaveSubarrays from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-iter-interleave-subarrays@v0.1.0-esm/index.mjs';
 ```
 
 #### nditerInterleaveSubarrays( arr, ndims )
@@ -126,7 +126,7 @@ The returned [iterator][mdn-iterator-protocol] protocol-compliant object has the
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@esm/index.mjs';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import nditerInterleaveSubarrays from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-iter-interleave-subarrays@esm/index.mjs';
+import nditerInterleaveSubarrays from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-iter-interleave-subarrays@v0.1.0-esm/index.mjs';
 
 // Define input arrays:
 var x = array( zeroTo( 27 ), {
